@@ -178,5 +178,14 @@ No API Gateway currently in Kenya.
 9.  The Presbyterian University of East Africa, Kikuyu
 10. Uzima University College, Kisumu
 
-## Contribution
+## Contributing
 Pull requests are welcome on GitHub at https://github.com/zegetech/tech-universe. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/zegetech/tech-universe/blob/master/CODE_OF_CONDUCT.md).
+
+### Guidelines
+- Fork the repository.
+- Clone the repository.
+- Create a branch. `sync your branch with master`
+- Make necessary changes and commit those changes.
+- Push changes to make a PR.
+- Submit your PR for review.
+- Keeping your fork synced with this repository.
