@@ -109,15 +109,19 @@ This Repos curates a list of tech players in the ecosystem.
 Others [here](https://s3.us-east-2.amazonaws.com/startuptoolkit123/Kenya+Startup+Funding+Report+2018+(Slide+Deck).pdf)
 
 ## Payment Gateways/Integrators in Kenya
-[Find them here](https://zegetech.com/blog/2019/01/14/payment-gateways-Kenya.html)
 
-Updates:
-
+- [Pesapal](https://www.pesapal.com/) is one of the better known payment gateways and has been around for a while. A pesapal wallet allows a merchant to accept payments from mobile money, cards and select mobile banking accounts.
+- [Jambopay](https://www.jambopay.com/) has two ways for integrating with their API; ‘Express Checkout’ and ‘Redirect Checkout’. Express checkout allows the customer to complete payment within the site while redirect checkout loads a Jambopay provided page to complete payment.
+- [Sapama](http://sapamacash.com/docs) cash supports payments made via Equitel and Mpesa only
+- [Lipisha](https://lipisha.com/payments/accounts/index.php/app/launch) is a payment service provider that allows integration through webhooks, popular e-commerce Plugins, and RestAPI.
+- [Rave](https://dashboard.flutterwave.com/), the Flutterwave Rave API provides mobile money and card payment integration. They also have tight bank integration in Nigeria. Nodejs and Android SDKs are provided along with plugins for the more popular CMS
+- [Kopo kopo](https://app.kopokopo.com/push_api)- They support payments in Mpesa, Masterpass and T-Kash.
+- [Mpayer](https://mpayer.co.ke/) is another payment gateway that has been around for a couple of years. It provides payment services for businesses and organizations through Mpesa, Airtel Money and Cash transfers.
+- [Tingg](https://tingg.africa/) is a payment gateway that was recently developed by Cellulant targetting both ordinary users and online merchants.
 - [Ipay](https://ipayafrica.com/) - Introducing Affiliates program that enables developers to share revenue iPay revenues according to their client's transactions.
 -  [Flutterwave](https://flutterwave.com/ke/) - Introduced integration with Zapier, Have an invoicing tool to send invoices to customers, Have aggregation feature.
 - [Interswitch Kenya](https://www.interswitchgroup.com/ke/)- Originated from Nigeria, offering Mpesa, cards, Airtime and bills payment integration.
 - [Jenga Payment Gateway](https://www.jengaapi.io/)- Apart from payments Jenga offer airtime and credit score APIs .
--[iPay](https://ipayafrica.com/generalapi/) - Online payment provider with developers affiliate program
 - [Africa's talking](https://africastalking.com/)- Apart from online payments AT provides a range of services eg Voice, SMS, IoT and more - Nairobi
 
 
@@ -142,15 +146,14 @@ No API Gateway currently in Kenya.
 -[MuleSoft](https://www.mulesoft.com/)-Build an application network with secure, reusable integrations and APIs designed, built, and managed on Anypoint Platform-
 
 ## Tech inclined co-working spaces
-- Name - Description- Location
--:-----:-:-----------:--------:-
-- [Nairobi Garage](https://nairobigarage.com/) - A co-working space for new and growing business. Born in 2014 out of the incubation and successful private seed fund 88mph, Nairobi Garage is a response to the need for non-traditional, lean and flexible office space solutions.    - Nairobi           -
--[Regus](https://www.regus.co.ke/) - Regus’ lucrative portfolio of office space for rent in Nairobi comprises a range of well-equipped business centers, fitted with professional-grade facilities and supported by local services- Nairobi-
--[Nexus](http://www.nexuscowork.com/) - Nexus Co-Work is a community designed co-working space that has been intentionally designed and run to inspire entrepreneurs to build and work on what matters to them, as we handle the rest - Nairobi-
-- [The Banda Space](http://www.thebanda.co.ke/)- A co-working space for tech nomads, freelancers and enterpreneurs- Nairobi-
--[Twig cowork](https://twigcowork.com/)- The Twig Cowork space Nairobi offers a fun and professional co-working platform for start-ups and seasoned businesses - Nairobi-
-- [The Kijiji](https://thekijiji.co.ke/) - It’s a village(Kijiji) that supports you to grow your business- Nairobi-
--[Ikigai](www.ikigai.co.ke) -Ikigai is a coworking office space in Nairobi that promotes wellness by creating workspaces that blend into the natural environment- Nairobi-
+
+- [Nairobi Garage](https://nairobigarage.com/) - A co-working space for new and growing business. Born in 2014 out of the incubation and successful private seed fund 88mph, Nairobi Garage is a response to the need for non-traditional, lean and flexible office space solutions.
+-[Regus](https://www.regus.co.ke/) - Regus’ lucrative portfolio of office space for rent in Nairobi comprises a range of well-equipped business centers, fitted with professional-grade facilities and supported by local services
+-[Nexus](http://www.nexuscowork.com/) - Nexus Co-Work is a community designed co-working space that has been intentionally designed and run to inspire entrepreneurs to build and work on what matters to them, as we handle the rest
+- [The Banda Space](http://www.thebanda.co.ke/)- A co-working space for tech nomads, freelancers and enterpreneurs
+-[Twig cowork](https://twigcowork.com/)- The Twig Cowork space Nairobi offers a fun and professional co-working platform for start-ups and seasoned businesses
+- [The Kijiji](https://thekijiji.co.ke/) - It’s a village(Kijiji) that supports you to grow your business
+-[Ikigai](www.ikigai.co.ke) -Ikigai is a coworking office space in Nairobi that promotes wellness by creating workspaces that blend into the natural environment
 
 ## Universities/Institutions with CS or IT programs by City
 
