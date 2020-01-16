@@ -122,7 +122,7 @@ Others [here](https://s3.us-east-2.amazonaws.com/startuptoolkit123/Kenya+Startup
 -  [Flutterwave](https://flutterwave.com/ke/) - Introduced integration with Zapier, Have an invoicing tool to send invoices to customers, Have aggregation feature.
 - [Interswitch Kenya](https://www.interswitchgroup.com/ke/) - Originated from Nigeria, offering Mpesa, cards, Airtime and bills payment integration.
 - [Jenga Payment Gateway](https://www.jengaapi.io/) - Apart from payments Jenga offer airtime and credit score APIs .
-- [Africa's talking](https://africastalking.com/) - Apart from online payments AT provides a range of services eg Voice, SMS, IoT and more - Nairobi
+- [Africa's talking](https://africastalking.com/) - Apart from online payments AT provides a range of services eg Voice, SMS, IoT and more .
 
 
 Most payment gateways are also integrators    
@@ -133,16 +133,16 @@ No API Gateway currently in Kenya.
 
 ### Global  
 
--  [Netflix API Gateway](https://github.com/Netflix/zuul) - Zuul is a Netflix gateway service that provides dynamic routing, monitoring, resiliency, security, and more [article](https://medium.com/netflix-techblog/announcing-zuul-edge-service-in-the-cloud-ab3af5be08ee)-
-- [Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)- Amazon API Gateway is an AWS service for creating, publishing, maintaining, monitoring, and securing REST and WebSocket APIs at any scale-  
-- [Authorize.Net](https://developer.authorize.net/api/) -  Built for the way developers build. Use the features you want to build the payment solution you need-
-- [Tyk](https://tyk.io/features/api-gateway/) - An open-source API gateway with authentication, Rate limiting and more-
--  [API Gateway Pattern](https://pivotal.io/application-modernization-recipes/app-architecture/api-gateway-pattern) - Demonstrate how to use the API Gateway pattern to control the authentication and access to the backend resources using Spring Cloud-
-- [Spring ](https://cloud.spring.io/spring-cloud-security/reference/html/) -Spring Cloud Security offers a set of primitives for building secure applications and services with minimum fuss-
-- [Akana](https://www.akana.com/products/api-platform/api-gateway)- The Akana API Gateway solution streamlines management, deployment, development, and operation of APIs-
-- [Akamai](https://developer.akamai.com/akamai-api-gateway)- An API Gateway with GraphQL caching-
-- [KrakenD](https://www.krakend.io/)- KrakenD is a stateless, distributed, high-performance API Gateway that helps you effortlessly adopt microservices-
-- [Gloo](https://www.solo.io/products/gloo/) - Gloo is a cloud-native API Gateway and Ingress Controller built on Envoy Proxy to connect, secure and control traffic across all your application services-
+-  [Netflix API Gateway](https://github.com/Netflix/zuul) - Zuul is a Netflix gateway service that provides dynamic routing, monitoring, resiliency, security, and [more](https://medium.com/netflix-techblog/announcing-zuul-edge-service-in-the-cloud-ab3af5be08ee)
+- [Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)- Amazon API Gateway is an AWS service for creating, publishing, maintaining, monitoring, and securing REST and WebSocket APIs at any scale.
+- [Authorize.Net](https://developer.authorize.net/api/) -  Built for the way developers build. Use the features you want to build the payment solution you need.
+- [Tyk](https://tyk.io/features/api-gateway/) - An open-source API gateway with authentication, Rate limiting and more.
+-  [API Gateway Pattern](https://pivotal.io/application-modernization-recipes/app-architecture/api-gateway-pattern) - Demonstrate how to use the API Gateway pattern to control the authentication and access to the backend resources using Spring Cloud.
+- [Spring ](https://cloud.spring.io/spring-cloud-security/reference/html/) -Spring Cloud Security offers a set of primitives for building secure applications and services with minimum fuss.
+- [Akana](https://www.akana.com/products/api-platform/api-gateway) - The Akana API Gateway solution streamlines management, deployment, development, and operation of APIs.
+- [Akamai](https://developer.akamai.com/akamai-api-gateway) - An API Gateway with GraphQL caching.
+- [KrakenD](https://www.krakend.io/)- KrakenD is a stateless, distributed, high-performance API Gateway that helps you effortlessly adopt microservices.
+- [Gloo](https://www.solo.io/products/gloo/) - Gloo is a cloud-native API Gateway and Ingress Controller built on Envoy Proxy to connect, secure and control traffic across all your application services.
 - [MuleSoft](https://www.mulesoft.com/) - Build an application network with secure, reusable integrations and APIs designed, built, and managed on Anypoint Platform.
 
 ## Tech inclined co-working spaces
