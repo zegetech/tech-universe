@@ -40,11 +40,11 @@ This Repos curates a list of tech players in the ecosystem.
 - [GDG Nairobi](https://www.meetup.com/GDG-Cloud-Nairobi/)(Google Developer Group) - is a google powered community focussed on google technologies and tools.
 - [Android254](https://www.meetup.com/Android254/) - Developers working with android technologies, Java, Kotlin, Flutter.
 - [Atlassian User Group(AUG)](https://aug.atlassian.com/nairobi/) - Atlassian powered community focusing on atlassian tools ie Devops,Best practices, Collaboration and more.
-- [DevC Nairobi - DevC (Developers Circle)]((https://www.facebook.com/groups/DevCNairobi/)) - is a facebook powered community focussing on facebook latest technologies, training and collaboration with other developers.
+- [DevC Nairobi - DevC (Developers Circle)](https://www.facebook.com/groups/DevCNairobi/) - is a facebook powered community focussing on facebook latest technologies, training and collaboration with other developers.
 - [Nairobi JS](https://www.meetup.com/nairobi-js/) - A community focused on Web & related technologies - HTML5, CSS3, JavaScript inclusive of Node.js
 - [Nairobi Gophers](https://www.meetup.com/Nairobi-Gophers/) - A community for go-lang enthusiasts.
-- [PHP Kenya]((https://www.meetup.com/phpkenya/) ) - A group of developers working with PHP language
-- [Nairobi JVM]((https://www.meetup.com/nairobi-jvm/)) - Nairobi JVM Is a great place to learn about the languages that run on the JVM, (Java, Scala,Clojure,Kotlin,Groovy,JRuby,JPython)
+- [PHP Kenya](https://www.meetup.com/phpkenya/)  - A group of developers working with PHP language.
+- [Nairobi JVM](https://www.meetup.com/nairobi-jvm/) - Nairobi JVM Is a great place to learn about the languages that run on the JVM, (Java, Scala,Clojure,Kotlin,Groovy,JRuby,JPython).
 - [Python KE](http://t.me/pythonKE) - Developers working with python language.
 - [Payment overflow]() - A group focussed with payment technologies in kenya.
 
@@ -76,8 +76,8 @@ This Repos curates a list of tech players in the ecosystem.
 
 ### Integrator
 - [Craft Silicon](https://www.craftsilicon.com/) - Craft Silicon is the doyen of turn-key financial technology solutions
-- [IPSL]((https://www.ipsl.co.ke/)) - Deal mostly with Pesalink. Subsidiary of Kenya bankers association
-- [Crystals Technologies]((https://crystaltech.co.ke)) - Provide modern digital financial services
+- [IPSL](https://www.ipsl.co.ke/) - Deal mostly with Pesalink. Subsidiary of Kenya bankers association
+- [Crystals Technologies](https://crystaltech.co.ke) - Provide modern digital financial services
 - [Chura](https://crystaltech.co.ke) - Offers money transfer services, Airtime services, Token, etc
 - [EastPesa](https://www.eastpesa.com/) - Provides a better way to send money to Kenya, Uganda and Tanzania using Mpesa, MTN and Airtel Money
 - [Eclectics](http://www.ekenya.co.ke/) - Offers electronic banking services
@@ -138,10 +138,11 @@ No API Gateway currently in Kenya.
 - [Authorize.Net](https://developer.authorize.net/api/) -  Built for the way developers build. Use the features you want to build the payment solution you need.
 - [Tyk](https://tyk.io/features/api-gateway/) - An open-source API gateway with authentication, Rate limiting and more.
 -  [API Gateway Pattern](https://pivotal.io/application-modernization-recipes/app-architecture/api-gateway-pattern) - Demonstrate how to use the API Gateway pattern to control the authentication and access to the backend resources using Spring Cloud.
-- [Spring ](https://cloud.spring.io/spring-cloud-security/reference/html/) -Spring Cloud Security offers a set of primitives for building secure applications and services with minimum fuss.
+- [Spring ](https://cloud.spring.io/spring-cloud-security/reference/html/) -
+ Spring Cloud Security offers a set of primitives for building secure applications and services with minimum fuss.
 - [Akana](https://www.akana.com/products/api-platform/api-gateway) - The Akana API Gateway solution streamlines management, deployment, development, and operation of APIs.
 - [Akamai](https://developer.akamai.com/akamai-api-gateway) - An API Gateway with GraphQL caching.
-- [KrakenD](https://www.krakend.io/)- KrakenD is a stateless, distributed, high-performance API Gateway that helps you effortlessly adopt microservices.
+- [KrakenD](https://www.krakend.io/) - KrakenD is a stateless, distributed, high-performance API Gateway that helps you effortlessly adopt microservices.
 - [Gloo](https://www.solo.io/products/gloo/) - Gloo is a cloud-native API Gateway and Ingress Controller built on Envoy Proxy to connect, secure and control traffic across all your application services.
 - [MuleSoft](https://www.mulesoft.com/) - Build an application network with secure, reusable integrations and APIs designed, built, and managed on Anypoint Platform.
 
