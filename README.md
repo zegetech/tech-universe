@@ -145,7 +145,8 @@ No API Gateway currently in Kenya.
 - [KrakenD](https://www.krakend.io/) - KrakenD is a stateless, distributed, high-performance API Gateway that helps you effortlessly adopt microservices.
 - [Gloo](https://www.solo.io/products/gloo/) - Gloo is a cloud-native API Gateway and Ingress Controller built on Envoy Proxy to connect, secure and control traffic across all your application services.
 - [MuleSoft](https://www.mulesoft.com/) - Build an application network with secure, reusable integrations and APIs designed, built, and managed on Anypoint Platform.
-
+- [Kong](https://konghq.com/) - An API Gateway which provide high performance, scalability and flexibulity for your microservices.
+- [Apigee](https://cloud.google.com/apigee/) - API management platform buy Google Cloud.
 ## Tech inclined co-working spaces
 
 - [Nairobi Garage](https://nairobigarage.com/) - A co-working space for new and growing business. Born in 2014 out of the incubation and successful private seed fund 88mph, Nairobi Garage is a response to the need for non-traditional, lean and flexible office space solutions.
