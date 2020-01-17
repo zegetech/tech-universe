@@ -147,6 +147,8 @@ No API Gateway currently in Kenya.
 - [MuleSoft](https://www.mulesoft.com/) - Build an application network with secure, reusable integrations and APIs designed, built, and managed on Anypoint Platform.
 - [Kong](https://konghq.com/) - An API Gateway which provide high performance, scalability and flexibulity for your microservices.
 - [Apigee](https://cloud.google.com/apigee/) - API management platform buy Google Cloud.
+- [Tyk cloud](https://tyk.io/docs/get-started/with-tyk-cloud/) - Tyk Cloud API Management Platform is a simple, scalable way for developers, startups and large companies to get started with the Tyk platform, offering an easy, hosted way to add an API management layer to your services.
+
 ## Tech inclined co-working spaces
 
 - [Nairobi Garage](https://nairobigarage.com/) - A co-working space for new and growing business. Born in 2014 out of the incubation and successful private seed fund 88mph, Nairobi Garage is a response to the need for non-traditional, lean and flexible office space solutions.
