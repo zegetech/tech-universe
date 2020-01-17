@@ -109,7 +109,9 @@ This Repos curates a list of tech players in the ecosystem.
 Others [here](https://s3.us-east-2.amazonaws.com/startuptoolkit123/Kenya+Startup+Funding+Report+2018+(Slide+Deck).pdf)
 
 ## Payment Gateways/Integrators in Kenya
-
+- [Daraja](https://developer.safaricom.co.ke/docs) - Official safaricom MPESA API.
+- [Proxy API](https://proxyapi.co.ke/home/) - Simplet REST/JSON API for MPESA with both Request and Callback tracing in real time
+- [Handaki](bit.ly/handaki_dev_ppt) - Handaki is an MPESA REST API. An enterprise grade alternative to MPESA Daraja. It aims to give developers a smooth experience while integrating to MPESA.
 - [Pesapal](https://www.pesapal.com/) is one of the better known payment gateways and has been around for a while. A pesapal wallet allows a merchant to accept payments from mobile money, cards and select mobile banking accounts.
 - [Jambopay](https://www.jambopay.com/) has two ways for integrating with their API; `Express Checkout` and `Redirect Checkout`. Express checkout allows the customer to complete payment within the site while redirect checkout loads a Jambopay provided page to complete payment.
 - [Sapama](http://sapamacash.com/docs) cash supports payments made via Equitel and Mpesa only
